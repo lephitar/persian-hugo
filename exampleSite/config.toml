@@ -30,11 +30,11 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
+author = "VanillaTiger"
 contact_form_action = "#"
 copyright = "Designed By [Philippe](https://phitar.com/) & Developed By [Vanilla Tiger](https://vanillatiger.ch/)"
 description = "This is meta description"
-logo = "images/Logo Glamping.png"
+logo = "/images/logo-glamping.png"
 search = true
 [params.cookies]
 enable = true
