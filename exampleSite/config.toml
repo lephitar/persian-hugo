@@ -34,7 +34,7 @@ author = "VanillaTiger"
 contact_form_action = "#"
 copyright = "Designed By [Philippe](https://phitar.com/) & Developed By [Vanilla Tiger](https://vanillatiger.ch/)"
 description = "This is meta description"
-logo = "/images/logo-glamping.png"
+logo = "images/logo-glamping.png"
 search = true
 [params.cookies]
 enable = true
